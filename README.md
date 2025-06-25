@@ -57,6 +57,14 @@
 
 ---
 
+## 🖥️ Code with Skills
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mostafatigre/mostafatigre/main/assets/mostafa-laptop-skills.png" alt="Mostafa Emad Skills Animation" width="700"/>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
