@@ -57,10 +57,10 @@
 
 ---
 
-## 🔥 Contributions Heat
+## 🎬 Dev Vibes Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/public/matrix.svg" alt="Matrix animation" style="max-width:100%;"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="700" alt="cool-coding-animated-gif"/>
 </p>
 
 ---
