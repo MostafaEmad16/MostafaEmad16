@@ -57,14 +57,6 @@
 
 ---
 
-## 🎬 Dev Vibes Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="700" alt="cool-coding-animated-gif"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
